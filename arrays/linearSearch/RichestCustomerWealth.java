@@ -1,4 +1,4 @@
-package arrays;
+package arrays.linearSearch;
 
 public class RichestCustomerWealth {
     // https://leetcode.com/problems/richest-customer-wealth/

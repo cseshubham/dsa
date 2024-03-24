@@ -1,4 +1,4 @@
-package arrays;
+package arrays.binarySearch;
 
 public class FindNumbersWithEvenNumberOfDigits {
     //// https://leetcode.com/problems/find-numbers-with-even-number-of-digits/

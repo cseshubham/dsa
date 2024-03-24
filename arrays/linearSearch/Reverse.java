@@ -1,8 +1,8 @@
-package arrays;
+package arrays.linearSearch;
 
 import java.util.Arrays;
 
-import static arrays.Swap.swap;
+import static arrays.linearSearch.Swap.swap;
 
 public class Reverse {
     public static void main(String[] args) {

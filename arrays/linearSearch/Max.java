@@ -1,4 +1,4 @@
-package arrays;
+package arrays.linearSearch;
 
 public class Max {
     public static void main(String[] args) {

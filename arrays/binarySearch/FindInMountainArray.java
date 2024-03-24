@@ -1,4 +1,4 @@
-package arrays;
+package arrays.binarySearch;
 
 public class FindInMountainArray {
     public static void main(String[] args) {
